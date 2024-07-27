@@ -1,3 +1,4 @@
+![Grafik Kasus HIV/AIDS](image/1.png)
 # Kasus HIV/AIDS di Indonesia: Penyebab dan Solusinya
 
 ## Pendahuluan
@@ -5,19 +6,18 @@
 Proyek ini berfokus pada analisis peningkatan kasus HIV/AIDS di Indonesia, dengan tujuan memberikan wawasan dan rekomendasi untuk intervensi yang lebih efektif. Data yang digunakan dalam proyek ini diperoleh dari berbagai sumber terpercaya seperti Kementerian Kesehatan Republik Indonesia dan UNAIDS.
 
 ## Anggota Kelompok
-
+![Grafik Kasus HIV/AIDS](image/2.png)
 - Muhammad As-Shaff
 - Bintang Puspita Dewi
 - Afri Hakim
 
 ## Latar Belakang
-
+![Grafik Kasus HIV/AIDS](image/3.png)
 Menurut data dari Kementerian Kesehatan Republik Indonesia, jumlah kasus baru HIV terus bertambah setiap tahun. Kasus HIV/AIDS ini berdampak pada berbagai kelompok usia, dengan prevalensi yang tinggi pada kelompok usia muda.
 
-![Grafik Kasus HIV/AIDS](images/image_1_1.png)
 
 ## Tujuan
-
+![Grafik Kasus HIV/AIDS](image/4.png)
 Proyek ini bertujuan untuk:
 1. Menganalisis peningkatan HIV/AIDS pada generasi sekarang di Indonesia.
 2. Membantu pembuat kebijakan merancang intervensi yang efektif.
@@ -26,7 +26,7 @@ Proyek ini bertujuan untuk:
 5. Memetakan prevalensi HIV berdasarkan wilayah, jenis kelamin, dan usia.
 6. Mendapatkan gambaran pola penyebaran HIV.
 
-![Peta Persebaran Kasus HIV](images/image_2_1.png)
+![Peta Persebaran Kasus HIV](image/6.png)
 
 ## Data dan Sumber
 
@@ -64,7 +64,7 @@ Data yang digunakan dalam proyek ini diambil dari:
 | Banten             | 458          |
 | Sumatera Utara     | 403          |
 
-![Persebaran Kasus HIV](images/image_3_1.png)
+![Persebaran Kasus HIV](image/7.png)
 
 ### Faktor Penularan
 
@@ -86,7 +86,7 @@ Data yang digunakan dalam proyek ini diambil dari:
 
 Proyek ini juga menyediakan berbagai infografis yang memvisualisasikan data-data tersebut untuk memudahkan pemahaman dan penyebaran informasi kepada masyarakat.
 
-![Infografis](images/image_4_1.png)
+![Infografis](image/10.png)
 
 ## Terima Kasih
 
